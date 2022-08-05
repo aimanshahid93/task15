@@ -1,0 +1,38 @@
+*{
+    box-sizing:border-box;   
+}
+body{
+    position:relative;
+    border:5px solid ;
+    align-items:center;
+    margin-left:200px;
+    margin-right:100px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.name{
+    border-radius:10px;
+    padding: auto; 
+    align-items:center; 
+    margin-right:350px;
+
+}
+.button{
+    width:70px;
+    margin-left:250px;
+    margin-bottom:10px;
+    background-color:green;
+    cursor:pointer;
+}
+.table{
+background-color:dark;
+font-size:20px;
+font-weight:bold;
+}
+h1{
+    align-items:center;
+    margin-left:300px;
+}
+input{
+    margin: left 50px;
+}
